@@ -1,0 +1,20 @@
+{
+  "switches": [
+    {
+      "name": "test",
+      "pin": 25
+    },
+    {
+      "name": "beep",
+      "pin": 26
+    },
+    {
+      "name": "vibrate",
+      "pin": 20
+    },
+    {
+      "name": "static",
+      "pin": 21
+    }
+  ]
+}
