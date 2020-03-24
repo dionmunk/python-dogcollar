@@ -1,5 +1,7 @@
 # python-dogcollar
 
+[![Creative Commons](https://flat.badgen.net/badge/license/CC-BY-NC-4.0/orange)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 A Python app used to control a remote dog training collar (beep, vibrate, and static). The app creates a simple REST API with Flask that is compatible with [HomeBridge](https://github.com/nfarina/homebridge) via the [homebridge-http-switch](https://github.com/Supereg/homebridge-http-switch) plugin.
 
 I created this because I catch my nearly always well-behaved dog doing things that she shouldn't on occasion. I find that I only need to use the beep and vibrate modes with her to keep her in check when I'm not at home and checking up on her with cameras.
@@ -75,6 +77,5 @@ Because the app has a duration where it will turn the switch on and then off aft
 ```
 
 ## License
-[![CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
