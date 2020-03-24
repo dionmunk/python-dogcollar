@@ -78,4 +78,4 @@ Because the app has a duration where it will turn the switch on and then off aft
 
 ## License
 
-This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
